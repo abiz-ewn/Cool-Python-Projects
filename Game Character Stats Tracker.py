@@ -53,8 +53,6 @@ class GameCharacter:
             f"Mana: {self.mana}"
         )
 
-
-# Example usage
 hero = GameCharacter('Naruto')
 
 print(hero)
